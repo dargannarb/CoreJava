@@ -1,0 +1,26 @@
+package oppsExaplanation;
+
+public class OverLoading {
+
+	public static void add() {
+		System.out.println("no inputs");
+	}
+	public static void add(int a) {
+		System.out.println("output = "+ a);
+	}
+	public static void add(int a, int b) {
+		System.out.println("output = "+ (a+b));
+	}
+
+	public static void add(int a, int b,int c) {
+		System.out.println("output = "+ (a+b+c));
+	}
+	
+	public static void add(int... a) {// int []
+		int total=0;
+		for(int x:a) {
+			total+=x;
+		}
+		System.out.println(total);
+	}
+}
