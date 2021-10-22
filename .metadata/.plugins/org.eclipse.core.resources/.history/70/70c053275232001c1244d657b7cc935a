@@ -1,0 +1,6 @@
+package programms;
+
+public class Animals extends LivingObjects {
+
+	
+}

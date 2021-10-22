@@ -1,0 +1,6 @@
+package programms;
+import oppsExaplanation.LivingObjects;
+public class Animals extends LivingObjects {
+
+	
+}

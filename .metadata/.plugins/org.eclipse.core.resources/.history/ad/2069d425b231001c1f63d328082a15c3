@@ -1,0 +1,7 @@
+package oppsExaplanation;
+
+import oops.Inherentence;
+
+public class Ladies extends Inherentence {
+
+}

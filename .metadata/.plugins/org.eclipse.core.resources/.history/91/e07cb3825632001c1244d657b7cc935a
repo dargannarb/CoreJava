@@ -1,0 +1,12 @@
+package oppsExaplanation;
+
+public class Animals extends LivingObjects {
+
+	public static void main(String[] args) {
+		
+		Animals.sense();
+		Animals A= new Animals();
+		A.eat();
+		
+	}
+}

@@ -1,0 +1,88 @@
+package oppsExaplanation;
+
+public interface InterFace_1 {
+
+	// only static methods with public,private, default but for private it is accept non-static as well
+	// methods , classes two types 
+	
+	// 1 . concreet method  // which method have a body it is concreet method
+	// 2. abstract method // which method dont have body it is abstract method
+	
+	
+	
+	public void A1();
+
+	private void B1();
+
+	private void b() {
+
+	}
+
+	static void C() {
+
+	}
+	
+	public static String NA() {
+		return null;
+
+	}
+
+	private static int NB() {
+		return 0;
+	}
+
+	private int nb() {
+		return 0;
+	}
+
+	static int NC() {
+		return 0;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void A() {
+
+	}
+
+	private static void B() {
+
+	}
+
+	private void b() {
+
+	}
+
+	static void C() {
+
+	}
+	
+	public static String NA() {
+		return null;
+
+	}
+
+	private static int NB() {
+		return 0;
+	}
+
+	private int nb() {
+		return 0;
+	}
+
+	static int NC() {
+		return 0;
+	}
+
+	
+
+	
+	
+	
+}

@@ -1,0 +1,10 @@
+package programms;
+
+import oppsExaplanation.InterFace_1;
+
+public  class Ladies  {
+public static void main(String[] args) {
+	System.out.println(InterFace_1.a);
+}
+	
+}

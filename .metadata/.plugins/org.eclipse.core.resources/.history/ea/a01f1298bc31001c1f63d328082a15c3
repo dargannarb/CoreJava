@@ -1,0 +1,25 @@
+package oppsExaplanation;
+
+import oops.Inherentence;
+
+public  class Ladies implements InterFace_2 {
+
+	@Override
+	public void x() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void y() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void z() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

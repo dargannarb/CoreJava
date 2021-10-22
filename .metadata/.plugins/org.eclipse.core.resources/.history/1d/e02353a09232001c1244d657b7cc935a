@@ -1,0 +1,11 @@
+package oppsExaplanation;
+
+import programms.Gent;
+
+public class TEST {
+public static void main(String[] args) {
+	Gent.A(10,100);
+	Gent.A(0);
+}
+	
+}

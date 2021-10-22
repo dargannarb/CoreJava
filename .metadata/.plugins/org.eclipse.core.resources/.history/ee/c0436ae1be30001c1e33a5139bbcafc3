@@ -1,0 +1,22 @@
+package oppsExaplanation;
+
+public class LivingObjects {
+
+	// breath
+	// walk
+	// eat
+	// sense
+	// 
+	
+	public void breath() {
+		System.out.println("breath feature");
+	}
+	
+	public void walk() {
+		System.out.println("walk feature");
+	}
+	
+	public void eat() {
+		System.out.println("eat feature");
+	}
+}

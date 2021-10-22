@@ -1,0 +1,10 @@
+package oppsExaplanation;
+
+import programms.Animals;
+
+public class TEST {
+	public static void main(String[] args) {
+		InterFace_1.a=20;
+		InterFace_1.
+	}
+}

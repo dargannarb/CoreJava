@@ -1,0 +1,30 @@
+package oppsExaplanation;
+
+import oops.Inherentence;
+
+public class Ladies extends Inherentence implements InterFace_1,InterFace_2 {
+	public static void main(String[] args) {
+		Ladies l=new Ladies();
+		
+		Inherentence I=new Inherentence();
+	}
+
+	@Override
+	public void y1() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void x() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void y() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

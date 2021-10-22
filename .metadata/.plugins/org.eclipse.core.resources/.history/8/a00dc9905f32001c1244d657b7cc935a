@@ -1,0 +1,74 @@
+package oops;
+
+import oppsExaplanation.Animals;
+import oppsExaplanation.Humans;
+import oppsExaplanation.LivingObjects;
+
+public class Inherentence {
+
+	// to get from others   extends and  implements
+	// reuse ability of code // flexibility  // parent - child 
+	
+	// two types ->  multilevel Inherentence ,   multiple Inherentence
+	// Interface --> it is like a class
+	// abstract
+	
+	/*
+	 * 
+	Mobile
+	
+	types - oneplus -- 7,7t,8,8t,9,9r,9pro 120 displ os 
+	
+	
+	
+	*/
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	public static void malli() {
+		Animals A=new Animals();
+		A.breath();
+		A.eat();
+		A.sense();
+		A.think();
+		
+		
+	}
+	 static void shiva() {
+		Humans H=new Humans();
+		H.breath();
+		H.eat();
+		H.walk();
+	}
+	
+	 private static void thulsi() {
+			Animals A=new Animals();
+			A.breath();
+			A.eat();
+			A.sense();
+			A.think();
+			
+			
+		}
+	 protected static void abhi() {
+			Animals A=new Animals();
+			A.breath();
+			A.eat();
+			A.sense();
+			A.think();
+			
+			
+		}
+	 protected  void gayathri() {
+			Animals A=new Animals();
+			A.breath();
+			A.eat();
+			A.sense();
+			A.think();
+			
+			
+		}
+}
+

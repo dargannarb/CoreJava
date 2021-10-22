@@ -1,0 +1,37 @@
+package oppsExaplanation;
+
+public class LivingObjects {
+
+	// breath
+	// walk
+	// eat
+	// sense
+	// 
+	
+	String livingSpace = "earth";
+	
+	private void A() {
+		
+	}
+	
+	public void breath() {
+		System.out.println("breath feature");
+	}
+	
+	public void walk() {
+		System.out.println("walk feature");
+	}
+	
+	public void eat() {
+		System.out.println("eat feature");
+	}
+	
+	public void sense() {
+		System.out.println("sense feature");
+	}
+	
+	public void think() {
+		System.out.println("think feature");
+	}
+	
+}

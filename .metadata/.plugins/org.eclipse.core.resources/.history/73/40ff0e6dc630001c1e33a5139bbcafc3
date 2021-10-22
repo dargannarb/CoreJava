@@ -1,0 +1,9 @@
+package oppsExaplanation;
+
+public class Animals extends LivingObjects{
+
+	
+	
+	
+}
+

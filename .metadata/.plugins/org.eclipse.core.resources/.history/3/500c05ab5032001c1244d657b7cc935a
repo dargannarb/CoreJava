@@ -1,0 +1,10 @@
+package oppsExaplanation;
+
+public class Gent implements A{
+
+	public static void main(String[] args) {
+	}
+
+
+
+}

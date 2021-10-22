@@ -1,0 +1,13 @@
+package programms;
+
+import oppsExaplanation.LivingObjects;
+
+public class Animals  {
+
+	public void M() {
+		
+		LivingObjects.breath();
+		LivingObjects.sense();
+	}
+	
+}

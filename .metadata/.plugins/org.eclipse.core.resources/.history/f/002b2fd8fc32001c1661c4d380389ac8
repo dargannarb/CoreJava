@@ -1,0 +1,12 @@
+package programms;
+
+import oppsExaplanation.InterFace_1;
+
+public  class Ladies implements InterFace_1  {
+public static void main(String[] args) {
+	System.out.println(InterFace_1.a+100);
+	String str1= InterFace_1.str;
+}
+
+	
+}

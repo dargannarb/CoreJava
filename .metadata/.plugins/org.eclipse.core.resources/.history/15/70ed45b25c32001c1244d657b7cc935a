@@ -1,0 +1,71 @@
+package oppsExaplanation;
+
+public class ConcreetClass {
+	public static void A() {
+	     Gent G=new Gent();
+		}
+
+		public void a() {
+
+		}
+
+		private static void B() {
+
+		}
+
+		private void b() {
+
+		}
+
+		static void C() {
+
+		}
+
+		void c() {
+
+		}
+
+		protected static void D() {
+
+		}
+
+		protected void d() {
+
+		}
+		
+		
+		
+		
+		public static int NA() {
+			return 0;
+
+		}
+
+		public int na() {
+			return 0;
+		}
+
+		private static int NB() {
+			return 0;
+		}
+
+		private int nb() {
+			return 0;
+		}
+
+		static int NC() {
+			return 0;
+		}
+
+		int nc() {
+			return 0;
+		}
+
+		protected static int ND() {
+			return 0;
+		}
+
+		protected int nd() {
+			return 0;
+		}
+}

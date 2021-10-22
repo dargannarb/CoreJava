@@ -1,0 +1,10 @@
+package oops;
+
+import oppsExaplanation.Humans;
+import oppsExaplanation.LivingObjects;
+
+public class Abstraction extends Humans {
+
+	
+	
+}

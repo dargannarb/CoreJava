@@ -1,0 +1,10 @@
+package programms;
+
+import oppsExaplanation.LivingObjects;
+
+public class Animals extends LivingObjects {
+	public static void main(String[] args) {
+
+	}
+
+}

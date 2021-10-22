@@ -1,0 +1,28 @@
+package oppsExaplanation;
+
+ class Humans extends LivingObjects{
+	// thinking 
+	// marriage
+	// relations
+	// job
+	// money
+	public void thinking() {
+		System.out.println("thinkingggg feature");
+	}
+	
+	public void marriage() {
+		System.out.println("marriage feature");
+	}
+	
+	public void relations() {
+		System.out.println("relations feature");
+	}
+	
+	public void job() {
+		System.out.println("job feature");
+	}
+	
+	public void money() {
+		System.out.println("money feature");
+	}
+}

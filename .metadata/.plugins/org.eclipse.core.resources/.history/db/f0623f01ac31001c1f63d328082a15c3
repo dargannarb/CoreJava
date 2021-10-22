@@ -1,0 +1,8 @@
+package oppsExaplanation;
+
+public class Gent extends Humans{
+
+	public static void main(String[] args) {
+		
+	}
+}

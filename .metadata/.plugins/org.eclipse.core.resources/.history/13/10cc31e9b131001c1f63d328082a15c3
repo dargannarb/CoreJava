@@ -1,0 +1,4 @@
+package oppsExaplanation;
+public class Ladies extends Inherentence {
+
+}

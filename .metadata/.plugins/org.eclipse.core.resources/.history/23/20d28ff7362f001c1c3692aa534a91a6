@@ -1,0 +1,60 @@
+package Basics;
+
+public class MainClass { // public , default , final , abstract
+
+	// all access modifiers are allow , static , final, abstract
+
+	public static class publicClass2 {
+	public  void main(String[] args) {
+			System.out.println("hello world");
+		}
+		
+	}
+	
+
+	public class publicClass3 {
+		public  void main(String[] args) {
+			System.out.println("hello world 1");
+		}
+		
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 private class privateClass {
+
+	}
+
+	abstract class defaultClass {
+
+	}
+
+	protected class ProtectedClass {
+
+	}
+	
+	
+	
+	
+}

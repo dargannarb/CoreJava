@@ -1,0 +1,13 @@
+package oops;
+
+import oppsExaplanation.InterFace_1;
+import oppsExaplanation.InterFace_2;
+import oppsExaplanation.InterFace_3;
+
+public interface A {
+public static void main(String[] args) {
+
+	
+}
+	
+}

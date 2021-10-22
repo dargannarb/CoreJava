@@ -1,0 +1,9 @@
+package programms;
+
+import oops.A;
+import oppsExaplanation.LivingObjects;
+
+public class Humans extends LivingObjects{
+	
+	
+}

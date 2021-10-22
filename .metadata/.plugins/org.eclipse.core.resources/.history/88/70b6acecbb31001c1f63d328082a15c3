@@ -1,0 +1,10 @@
+package oppsExaplanation;
+
+import oops.Inherentence;
+
+public class Ladies extends Inherentence {
+	public static void main(String[] args) {
+		Ladies l=new Ladies();
+	}
+
+}

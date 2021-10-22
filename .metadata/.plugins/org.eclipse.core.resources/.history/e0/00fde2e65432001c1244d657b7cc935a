@@ -1,0 +1,11 @@
+package programms;
+
+import oppsExaplanation.LivingObjects;
+
+public class Animals extends LivingObjects {
+
+	public void M() {
+		
+	}
+	
+}

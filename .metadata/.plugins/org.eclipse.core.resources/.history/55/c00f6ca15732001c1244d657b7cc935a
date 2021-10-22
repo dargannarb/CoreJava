@@ -1,0 +1,78 @@
+package programms;
+
+import java.util.Scanner;
+
+public class Calsi extends Animals{
+	// 2+3+5*7
+
+	public static void main(String[] args) {
+		Animals A=new Animals();
+		A.sense();
+		Calsi C= new Calsi();
+		C.eat();
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void Calculator() {
+		int output =0;
+		boolean flag = true;
+		while(flag) {
+			Scanner sc = new Scanner(System.in);
+			System.out.println("enter operation");
+			String op = sc.next();
+			switch (op) {
+			case "+":
+				System.out.println("enter num");
+				int a = sc.nextInt();
+				output = output+a;
+				break;
+			case "-":
+				System.out.println("enter num");
+				 a = sc.nextInt();
+				 output = output-a;
+				break;
+			case "*":
+				System.out.println("enter num");
+				 a = sc.nextInt();
+				 output = output*a;
+				break;
+			case "/":
+				System.out.println("enter num");
+				 a = sc.nextInt();
+				 output = output/a;
+				break;
+			case "%":
+				System.out.println("enter num");
+				 a = sc.nextInt();
+				 output = output%a;
+				break;
+			case "=":
+				flag=false;
+				break;
+		
+			}
+		}
+		
+		System.out.println(output);
+	}
+}
