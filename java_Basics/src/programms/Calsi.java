@@ -2,16 +2,27 @@ package programms;
 
 import java.util.Scanner;
 
-public class Calsi {
+public class Calsi extends Gent{
 	// 2+3+5*7
 
-	public static void main(String[] args) {
-		
-		
+public  void A() {
+		System.out.println("ihjkioijkhvgj");
 	}
 
+
+	 class C{
+		
+		private  void A() {
+			System.out.println("ihjkioijkhvgj");
+		}
+	}
 	
-	
+static class D{
+		
+		public  void A() {
+			System.out.println("ihjkioijkhvgj");
+		}
+	}
 	
 	
 	

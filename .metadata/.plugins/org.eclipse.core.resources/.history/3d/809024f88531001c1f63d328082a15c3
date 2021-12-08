@@ -1,7 +1,0 @@
-package oppsExaplanation;
-
-public class Animals extends LivingObjects{
-	// 5 mins guys
-	
-}
-

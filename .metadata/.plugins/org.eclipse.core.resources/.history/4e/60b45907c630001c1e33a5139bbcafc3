@@ -1,7 +1,0 @@
-package oops;
-
-import oppsExaplanation.LivingObjects;
-
-public class Abstraction extends LivingObjects {
-
-}

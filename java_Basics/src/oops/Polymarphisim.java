@@ -1,7 +1,5 @@
 package oops;
 
-import oppsExaplanation.ExampleOverLoading;
-
 public class Polymarphisim {
 
 	
@@ -10,7 +8,7 @@ public class Polymarphisim {
 	// method overloading , method overriding
 	
 	public static void main(String[] args) {
-		ExampleOverLoading.add(2l,3l);
+		
 	}
 	
 	

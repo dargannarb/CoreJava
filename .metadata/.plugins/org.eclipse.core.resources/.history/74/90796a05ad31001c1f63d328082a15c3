@@ -1,9 +1,0 @@
-package oppsExaplanation;
-
-public class Gent implements InterFace_3{
-
-	public static void main(String[] args) {
-	}
-
-
-}

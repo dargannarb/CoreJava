@@ -60,21 +60,18 @@ public class Inherentence {
 	 private static void thulsi() {
 			Animals A=new Animals();
 			A.breath();
-			A.think();
 			
 			
 		}
 	 protected static void abhi() {
 			Animals A=new Animals();
 			A.breath();
-			A.think();
 			
 			
 		}
 	 protected  void gayathri() {
 			Animals A=new Animals();
 			A.breath();
-			A.think();
 			
 			
 		}

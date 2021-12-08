@@ -1,8 +1,0 @@
-package oops;
-
-public interface A extends Humans{
-public static void main(String[] args) {
-	
-}
-	
-}

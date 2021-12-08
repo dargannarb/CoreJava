@@ -6,17 +6,30 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="h"/>
 		<list key="findhistory">
+			<item value="s"/>
+			<item value="Override"/>
+			<item value="override"/>
+			<item value="over"/>
+			<item value="this"/>
+			<item value="LinkedList"/>
+			<item value="size"/>
+			<item value="Narayana"/>
+			<item value="Sc"/>
 			<item value="package Basics;"/>
 		</list>
 		<list key="replacehistory">
+			<item value="h"/>
+			<item value="ZPH"/>
+			<item value="Nalanda"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="779"/>
-		<item key="DIALOG_Y_ORIGIN" value="173"/>
+		<item key="DIALOG_X_ORIGIN" value="1046"/>
+		<item key="DIALOG_Y_ORIGIN" value="203"/>
 		<item key="DIALOG_WIDTH" value="385"/>
 		<item key="DIALOG_HEIGHT" value="523"/>
-		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

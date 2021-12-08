@@ -1,9 +1,0 @@
-package oppsExaplanation;
-
-import programms.Animals;
-
-public class TEST {
-	public static void main(String[] args) {
-			Animals
-	}
-}

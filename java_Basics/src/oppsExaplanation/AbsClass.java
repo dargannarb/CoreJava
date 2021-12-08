@@ -13,7 +13,24 @@ abstract class AbsClass {
 	     final key word is not allowed for abs classes
 	*/
 	
+	public AbsClass() {
+		System.out.println("i am const");
+	}
 	
+	public AbsClass(int x) {
+		System.out.println("i am const " +x);
+	}
+	public AbsClass(int x,int y) {
+		System.out.println("i am const " +(x+y));
+	}
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+
+	}
 	
 	abstract public void A1();
 

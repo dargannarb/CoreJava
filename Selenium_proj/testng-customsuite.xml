@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Facebook1"> <!-- Before Suite    configuration-->
+<parameter name="browser" value="null"></parameter>
+	<test name="Validation"> <!-- Before Test Launch browse and app-->
+		<classes>
+			<class name="pack.testClass"> <!-- Before Class  -->
+				<methods><!-- Before Method -->
+					
+				</methods><!-- After Method -->
+			</class><!-- After Class -->
+		</classes>
+	</test><!-- After Test -->
+</suite> <!-- After Suite   mails-->

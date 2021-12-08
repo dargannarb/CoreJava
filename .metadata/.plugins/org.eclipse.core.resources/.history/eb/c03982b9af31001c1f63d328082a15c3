@@ -1,8 +1,0 @@
-package oops;
-
-public interface A {
-public static void main(String[] args) {
-	
-}
-	
-}

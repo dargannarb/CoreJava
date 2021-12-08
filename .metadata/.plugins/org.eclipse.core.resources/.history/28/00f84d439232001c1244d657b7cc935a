@@ -1,7 +1,0 @@
-package oppsExaplanation;
-
-import programms.Animals;
-
-public class TEST implements InterFace_1{
-	
-}
