@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="h"/>
+		<item key="selection" value="separator"/>
 		<list key="findhistory">
+			<item value="separator"/>
 			<item value="s"/>
 			<item value="Override"/>
 			<item value="override"/>

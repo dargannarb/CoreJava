@@ -6,6 +6,7 @@
       <class name="pack.testClass">
         <methods>
           <include name="logIn"/>
+          <include name="hardAssert"/>
           <include name="softAssert"/>
           <include name="launchBrowser"/>
         </methods>

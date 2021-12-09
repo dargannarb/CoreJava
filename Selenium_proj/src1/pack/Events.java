@@ -2,6 +2,7 @@ package pack;
 
 import java.time.Duration;
 import java.util.List;
+import java.util.NoSuchElementException;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
@@ -14,8 +15,13 @@ import com.gargoylesoftware.htmlunit.javascript.host.media.webkitMediaStream;
 public class Events {
 	static Alert alert;
 
-	public static void clickOnelement(WebElement ele) {
-		waitForElement(ele).click();
+	public static void clickOnelement(WebElement ele) throws InterruptedException {
+		try {
+			waitForElement(ele).click();
+		} catch (Exception e) {
+			Thread.sleep(1000);
+			waitForElement(ele).click();
+		}
 	}
 
 	public static void enterValue(WebElement ele, String value) {
